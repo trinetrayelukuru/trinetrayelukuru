@@ -147,15 +147,7 @@ Focused on elegant engineering, reliable APIs, and AI products that recruiters a
 ---
 
 
-## Quote
 
-<div align="center">
-
-> *"The best way to predict the future is to build it."*
-
-</div>
-
----
 
 ## Connect With Me
 
