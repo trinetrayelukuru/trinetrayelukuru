@@ -146,15 +146,6 @@ Focused on elegant engineering, reliable APIs, and AI products that recruiters a
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/trinetrayelukuru/trinetrayelukuru/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## Quote
 
